@@ -3,10 +3,10 @@
 A conversational Business Intelligence agent that answers founder-level queries by making **live API calls** to Monday.com boards containing Deals and Work Orders data.
 
 ## Live Demo
-> Add your deployed URL here after hosting
+[](https://monday-agent.onrender.com)
 
 ## Monday.com Boards
-> Add your board links here after setup
+
 
 ---
 
