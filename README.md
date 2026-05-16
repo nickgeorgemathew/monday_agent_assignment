@@ -1,4 +1,4 @@
-# Skylark Drones — Monday.com BI Agent
+#  Monday.com BI Agent
 
 A conversational Business Intelligence agent that answers founder-level queries by making **live API calls** to Monday.com boards containing Deals and Work Orders data.
 
